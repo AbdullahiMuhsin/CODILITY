@@ -48,6 +48,9 @@ def solution(S):
 
 # Test the function with an example
 print(solution("?ab??a"))
+print(solution("bab??aa"))
+print(solution("?a?"))
+
 
 
 
